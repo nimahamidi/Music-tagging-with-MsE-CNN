@@ -6,4 +6,4 @@ MsE-CNN is an noval model that improves music classification accuracy significen
 
 
 ## MsE-CNN (Proposed)
-![](https://github.com/nimahamidi/Music-tagging-with-multi-scale-embedded-CNN/blob/master/Architecture.jpg | width=48)
+![](https://github.com/nimahamidi/Music-tagging-with-multi-scale-embedded-CNN/blob/master/Architecture.jpg){:height="24px" width="48px"}
