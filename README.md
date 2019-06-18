@@ -6,6 +6,7 @@ MsE-CNN is an noval model that improves music classification accuracy significen
   <p>Nima</p>
 </div>
 <div style='float:right;width:48%;'>
+  <p>Nima</p>
 </div>
 
 ## Traditional CNN
