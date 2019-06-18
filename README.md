@@ -1,11 +1,19 @@
 # MsE-CNN (Multi-scale Embedded CNN for music Tagging)
 MsE-CNN is an noval model that improves music classification accuracy significently. 
 
-<DIV CLASS="foo">
+<div style='float:left;width:48%;' class='centered'>
+  <h2>Left</h2>
 
-*Markdown*
+<p>This text should float to the left.</p>
 
-</DIV>
+</div>
+<div style='float:right;width:48%;'>
+  <h2>Right</h2>
+
+<p>This text should float to the right.</p>
+
+</div>
+
 
 ## Traditional CNN
 <img src="https://github.com/nimahamidi/Music-tagging-with-multi-scale-embedded-CNN/blob/master/Images/org.png" width="40%"/>
