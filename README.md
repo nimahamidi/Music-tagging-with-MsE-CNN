@@ -2,10 +2,10 @@
 <div class="container">
   <div class="columns mb-1">
     <div class="one-fifth column block-blue p-3 border">
-      .one-fifth
+      one-fifth
     </div>
     <div class="four-fifths column block-blue p-3 border">
-      .four-fifths
+      four-fifths
     </div>
   </div>
 
