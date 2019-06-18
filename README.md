@@ -1,17 +1,6 @@
-.columns
-<div class="container">
-  <div class="columns mb-1">
-    <div class="one-fifth column block-blue p-3 border">
-      one-fifth
-    </div>
-    <div class="four-fifths column block-blue p-3 border">
-      four-fifths
-    </div>
-  </div>
 
 # MsE-CNN (Multi-scale Embedded CNN for music Tagging)
 MsE-CNN is an noval model that improves music classification accuracy significently. 
-
 
 
 ## Traditional CNN
