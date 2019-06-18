@@ -1,3 +1,9 @@
+<div class="columns">
+  <div class="one-half column centered block-blue border p-3">
+    .one-half
+  </div>
+</div>
+
 # MsE-CNN (Multi-scale Embedded CNN for music Tagging)
 MsE-CNN is an noval model that improves music classification accuracy significently. 
 
