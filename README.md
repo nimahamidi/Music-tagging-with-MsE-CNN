@@ -3,6 +3,7 @@ MsE-CNN is an noval model that improves music classification accuracy significen
 
 
 <div style='float:left;width:48%;' class='centered'>
+  <p>Nima</p>
 </div>
 <div style='float:right;width:48%;'>
 </div>
