@@ -1,13 +1,15 @@
 # MsE-CNN (Multi-scale Embedded CNN for music Tagging)
 MsE-CNN is an noval model that improves music classification accuracy significently. 
 
-
-<div style='float:left;width:48%;' class='centered'>
-  <p>Nima</p>
-</div>
-<div style='float:right;width:48%;'>
-  <p>Nima</p>
-</div>
+<div class="container">
+  <div class="columns mb-1">
+    <div class="one-fifth column block-blue p-3 border">
+      .one-fifth
+    </div>
+    <div class="four-fifths column block-blue p-3 border">
+      .four-fifths
+    </div>
+  </div>
 
 ## Traditional CNN
 <p><img src="https://github.com/nimahamidi/Music-tagging-with-multi-scale-embedded-CNN/blob/master/Images/org.png" width="40%"/></p>
